@@ -31,8 +31,8 @@ Para configurar e executar este projeto, siga os passos abaixo:
 
 1.  **Clone o Repositório:**
 ```bash
-git clone https://github.com/thiagoribeiro00/artificial_intelligence_analyst-_challenge.git
-cd artificial_intelligence_analyst-_challenge
+git clone https://github.com/thiagoribeiro00/artificial_intelligence_analyst_challenge.git
+cd artificial_intelligence_analyst_challenge
 ```
 
 2.  **Crie e Ative um Ambiente Virtual:**
