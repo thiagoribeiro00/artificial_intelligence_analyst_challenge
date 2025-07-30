@@ -1,0 +1,11 @@
+opencv-python
+astropy
+numpy
+matplotlib
+torch
+torchvision
+scikit-learn
+transformers
+ffmpeg
+datetime
+sqlite3
