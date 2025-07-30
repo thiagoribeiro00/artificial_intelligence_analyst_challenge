@@ -1,4 +1,4 @@
-# Projeto de Análise de Vídeo e Classificação de Objetos
+# Desafio Técnico – Processo Seletivo para Analista de Inteligência Artificial
 
 Este projeto demonstra um pipeline de processamento de vídeo e áudio para análise de cena e classificação de objetos, utilizando técnicas de visão computacional e machine learning.
 
