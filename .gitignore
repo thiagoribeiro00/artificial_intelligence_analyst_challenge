@@ -34,12 +34,6 @@ dist/
 # NOTE: Adicione aqui arquivos e diretórios gerados pelos seus scripts.
 # Isso evita que dados grandes sejam enviados para o repositório.
 
-# Diretórios de saída e dados gerados
-/output/
-/data/
-*.sqlite
-*.db
-
 # Modelos de Machine Learning treinados
 /models/
 
