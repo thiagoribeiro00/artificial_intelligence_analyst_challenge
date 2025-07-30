@@ -8,4 +8,4 @@ scikit-learn
 transformers
 ffmpeg
 datetime
-sqlite3
+db-sqlite3
